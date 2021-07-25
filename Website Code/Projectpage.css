@@ -1,0 +1,102 @@
+
+.Starter {
+  position: relative;
+  text-align: center;
+  margin-top: 200px;
+  right: 20px;
+
+}
+h1 {
+  position: relative;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 60px;
+}
+p1 {
+  position: relative;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: rgb(0,114,178);
+  font-size: 30px;
+}
+.topnav {
+  overflow: hidden;
+  background-color: white;
+  text-align: center;
+  position: relative;
+  right: 25px;
+  top: 0px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.topnav a {
+  float: center;
+  color: rgb(86,180,230);
+  text-align: center;
+  padding: 14px 100px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: white;
+}
+.Introduction{
+  position: relative;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  top: 100px;
+}
+html {
+  scroll-behavior: smooth;
+ }
+p3 {
+  font-family: 'Open Sans', sans-serif;
+}
+.MeanIncome{
+  position: relative;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  top: 100px;
+}
+.PovertyRedlining{
+  position: relative;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  top: 100px;
+}
+.MetrorailWalkability{
+  position: relative;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  top: 100px;
+}
+.Thoughts{
+  position: relative;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  top: 100px;
+}
+.button {
+  border: none;
+  color: rgb(0,114,178);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: white;
+}
+.Conclusion{
+  position: relative;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  top: 100px;
+}
